@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc7d0c0-c9e9-4cf8-a561-22064bd0b6a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/study/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574244739936</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1">
+      <created>1574245232895</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245232895</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,7 @@
     <MESSAGE value="git 초기작업" />
     <MESSAGE value="git 초기작업3" />
     <MESSAGE value="ㅁㄴㅇ" />
-    <option name="LAST_COMMIT_MESSAGE" value="ㅁㄴㅇ" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
