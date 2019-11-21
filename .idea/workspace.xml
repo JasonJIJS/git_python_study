@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bc7d0c0-c9e9-4cf8-a561-22064bd0b6a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/study/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/__init__.py" afterDir="false" />
+    <list default="true" id="0bc7d0c0-c9e9-4cf8-a561-22064bd0b6a7" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_study/ch04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_study/ch05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_study/ch06/input_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +31,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hotfix" />
+        <entry key="$PROJECT_DIR$" value="hot_ch06" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,8 +46,14 @@
   <component name="ProjectId" id="1TsJex6tMF1YvnqwkNKaGcx9aXy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_study/ch05" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,6 +66,57 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.print_study">
+    <configuration name="print_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/ch06/print_study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/python_stack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.print_study" />
+        <item itemvalue="Python.python_stack" />
+        <item itemvalue="Python.python_stack" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -123,7 +185,63 @@
       <option name="project" value="LOCAL" />
       <updated>1574245232895</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1">
+      <created>1574245376871</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245376871</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <created>1574245619901</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245619901</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1">
+      <created>1574245755060</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245755060</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1">
+      <created>1574245885076</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245885076</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1">
+      <created>1574245929422</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574245929422</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1">
+      <created>1574246122425</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574246122425</updated>
+    </task>
+    <task id="LOCAL-00015" summary="(191121_print)">
+      <created>1574296910961</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574296910961</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ch06 패키지 추가 및 print_study.py 추가">
+      <created>1574297074620</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574297074620</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +262,8 @@
     <MESSAGE value="git 초기작업3" />
     <MESSAGE value="ㅁㄴㅇ" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="(191121_print)" />
+    <MESSAGE value="ch06 패키지 추가 및 print_study.py 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch06 패키지 추가 및 print_study.py 추가" />
   </component>
 </project>
