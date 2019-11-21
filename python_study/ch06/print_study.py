@@ -14,4 +14,6 @@ print("{:,}".format(3000000))
 print("{:2e}".format(925000000))
 print("{:.1%}".format(0.33))
 print("{0:#x}, {1:#o}, {2:#b}".format(16,8,2))
+print("{0:x}, {1:o}, {2:b}".format(16,8,2))
+
 
