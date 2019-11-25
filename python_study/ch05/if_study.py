@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     for a in [0, 2, 4, 6]:
         print(a)
-    print(list(range(0, 10, 1)))
+    print(list(range(0, 10, 2)))
 
     for a in range(0, 6, 2):
         print(a)
