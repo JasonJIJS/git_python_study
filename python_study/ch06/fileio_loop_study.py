@@ -37,13 +37,13 @@ def file_readlines():
 #     f.close()
 
 
-def with_fileio():
-    global file_path
-    print('===', with_fileio.__name__, '===')
-    try:
-        with open(file_path,'r')
-            file_string = f.read()
-            print(file_string)
+# def with_fileio():
+#     global file_path
+#     print('===', with_fileio.__name__, '===')
+#     try:
+#         with open(file_path,'r')
+#             file_string = f.read()
+#             print(file_string)
 
 
 

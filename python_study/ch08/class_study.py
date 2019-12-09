@@ -1,4 +1,4 @@
-from ch08.class_study01 import Bicycle
+from python_study.ch08.class_study01 import Bicycle
 
 if __name__ == "__main__":
     my_bicycle = Bicycle()
